@@ -1,3 +1,9 @@
+## Module Project: Building a Research Assistant Tool with Next.js and Langchain
+
+Imagine having a research assistant at your fingertips, one who can understand and provide insights from any PDF document you provide. This is not just a figment of imagination anymore; it's a reality we're going to build together using Next.js, Langchain, and vector databases like MemoryVectorStore and Pinecone.
+
+Credits : https://github.com/thestriver/ai-for-javascript-course?tab=readme-ov-file#project-build-a-research-assistant-tool
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
